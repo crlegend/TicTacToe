@@ -1,0 +1,10 @@
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    table-layout:fixed;
+}
+th
+{
+  height: 120px;
+  font-size: 70px;
+}
